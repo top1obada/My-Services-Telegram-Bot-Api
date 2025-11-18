@@ -1,0 +1,17 @@
+C:\Users\Game On\source\repos\MyServicesTelegramBotBussinessTier\bin\Release\net8.0\MyServicesTelegramBotBussinessTier.deps.json
+C:\Users\Game On\source\repos\MyServicesTelegramBotBussinessTier\bin\Release\net8.0\MyServicesTelegramBotBussinessTier.dll
+C:\Users\Game On\source\repos\MyServicesTelegramBotBussinessTier\bin\Release\net8.0\MyServicesTelegramBotBussinessTier.pdb
+C:\Users\Game On\source\repos\MyServicesTelegramBotBussinessTier\bin\Release\net8.0\MyServicesTelegramBotDataTier.dll
+C:\Users\Game On\source\repos\MyServicesTelegramBotBussinessTier\bin\Release\net8.0\MyServicesTelegramBotDTO.dll
+C:\Users\Game On\source\repos\MyServicesTelegramBotBussinessTier\bin\Release\net8.0\MyServicesTelegramBotDTO.pdb
+C:\Users\Game On\source\repos\MyServicesTelegramBotBussinessTier\bin\Release\net8.0\MyServicesTelegramBotDataTier.pdb
+C:\Users\Game On\source\repos\MyServicesTelegramBotBussinessTier\obj\Release\net8.0\MyServicesTelegramBotBussinessTier.csproj.AssemblyReference.cache
+C:\Users\Game On\source\repos\MyServicesTelegramBotBussinessTier\obj\Release\net8.0\MyServicesTelegramBotBussinessTier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Game On\source\repos\MyServicesTelegramBotBussinessTier\obj\Release\net8.0\MyServicesTelegramBotBussinessTier.AssemblyInfoInputs.cache
+C:\Users\Game On\source\repos\MyServicesTelegramBotBussinessTier\obj\Release\net8.0\MyServicesTelegramBotBussinessTier.AssemblyInfo.cs
+C:\Users\Game On\source\repos\MyServicesTelegramBotBussinessTier\obj\Release\net8.0\MyServicesTelegramBotBussinessTier.csproj.CoreCompileInputs.cache
+C:\Users\Game On\source\repos\MyServicesTelegramBotBussinessTier\obj\Release\net8.0\MyServic.7A09A778.Up2Date
+C:\Users\Game On\source\repos\MyServicesTelegramBotBussinessTier\obj\Release\net8.0\MyServicesTelegramBotBussinessTier.dll
+C:\Users\Game On\source\repos\MyServicesTelegramBotBussinessTier\obj\Release\net8.0\refint\MyServicesTelegramBotBussinessTier.dll
+C:\Users\Game On\source\repos\MyServicesTelegramBotBussinessTier\obj\Release\net8.0\MyServicesTelegramBotBussinessTier.pdb
+C:\Users\Game On\source\repos\MyServicesTelegramBotBussinessTier\obj\Release\net8.0\ref\MyServicesTelegramBotBussinessTier.dll

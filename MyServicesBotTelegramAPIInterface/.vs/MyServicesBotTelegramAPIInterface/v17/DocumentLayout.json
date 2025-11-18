@@ -1,0 +1,662 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Game On\\source\\repos\\MyServicesBotTelegramAPIInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62FF6F84-BB2F-421B-A312-84D4B76C02A6}|..\\MyServicesTelegramDataTier\\MyServicesTelegramBotDataTier.csproj|c:\\users\\game on\\source\\repos\\myservicestelegramdatatier\\settings\\connectionroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD11E19-2F0D-4779-8F51-28CC4EF33633}|MyServicesBotTelegramAPIInterface.csproj|c:\\users\\game on\\source\\repos\\myservicesbottelegramapiinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD11E19-2F0D-4779-8F51-28CC4EF33633}|MyServicesBotTelegramAPIInterface.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD11E19-2F0D-4779-8F51-28CC4EF33633}|MyServicesBotTelegramAPIInterface.csproj|c:\\users\\game on\\source\\repos\\myservicesbottelegramapiinterface\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBD11E19-2F0D-4779-8F51-28CC4EF33633}|MyServicesBotTelegramAPIInterface.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD11E19-2F0D-4779-8F51-28CC4EF33633}|MyServicesBotTelegramAPIInterface.csproj|c:\\users\\game on\\source\\repos\\myservicesbottelegramapiinterface\\controllers\\image\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD11E19-2F0D-4779-8F51-28CC4EF33633}|MyServicesBotTelegramAPIInterface.csproj|solutionrelative:controllers\\image\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD11E19-2F0D-4779-8F51-28CC4EF33633}|MyServicesBotTelegramAPIInterface.csproj|c:\\users\\game on\\source\\repos\\myservicesbottelegramapiinterface\\controllers\\servicepartdetails\\servicepartdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD11E19-2F0D-4779-8F51-28CC4EF33633}|MyServicesBotTelegramAPIInterface.csproj|solutionrelative:controllers\\servicepartdetails\\servicepartdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD11E19-2F0D-4779-8F51-28CC4EF33633}|MyServicesBotTelegramAPIInterface.csproj|c:\\users\\game on\\source\\repos\\myservicesbottelegramapiinterface\\controllers\\servicepart\\servicepartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD11E19-2F0D-4779-8F51-28CC4EF33633}|MyServicesBotTelegramAPIInterface.csproj|solutionrelative:controllers\\servicepart\\servicepartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD11E19-2F0D-4779-8F51-28CC4EF33633}|MyServicesBotTelegramAPIInterface.csproj|c:\\users\\game on\\source\\repos\\myservicesbottelegramapiinterface\\controllers\\service\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD11E19-2F0D-4779-8F51-28CC4EF33633}|MyServicesBotTelegramAPIInterface.csproj|solutionrelative:controllers\\service\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5523ED40-C065-4BAF-A13E-532130183809}|..\\MyServicesTelegramBotBussinessTier\\MyServicesTelegramBotBussinessTier.csproj|c:\\users\\game on\\source\\repos\\myservicestelegrambotbussinesstier\\objects\\servicepartdetails\\servicepartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5523ED40-C065-4BAF-A13E-532130183809}|..\\MyServicesTelegramBotBussinessTier\\MyServicesTelegramBotBussinessTier.csproj|c:\\users\\game on\\source\\repos\\myservicestelegrambotbussinesstier\\objects\\servicepart\\servicepart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5523ED40-C065-4BAF-A13E-532130183809}|..\\MyServicesTelegramBotBussinessTier\\MyServicesTelegramBotBussinessTier.csproj|c:\\users\\game on\\source\\repos\\myservicestelegrambotbussinesstier\\objects\\image\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5523ED40-C065-4BAF-A13E-532130183809}|..\\MyServicesTelegramBotBussinessTier\\MyServicesTelegramBotBussinessTier.csproj|c:\\users\\game on\\source\\repos\\myservicestelegrambotbussinesstier\\objects\\servicepartdetails\\services\\saveservicepartdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5523ED40-C065-4BAF-A13E-532130183809}|..\\MyServicesTelegramBotBussinessTier\\MyServicesTelegramBotBussinessTier.csproj|c:\\users\\game on\\source\\repos\\myservicestelegrambotbussinesstier\\objects\\servicepart\\services\\saveservicepartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5523ED40-C065-4BAF-A13E-532130183809}|..\\MyServicesTelegramBotBussinessTier\\MyServicesTelegramBotBussinessTier.csproj|c:\\users\\game on\\source\\repos\\myservicestelegrambotbussinesstier\\objects\\service\\services\\saveserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FF6F84-BB2F-421B-A312-84D4B76C02A6}|..\\MyServicesTelegramDataTier\\MyServicesTelegramBotDataTier.csproj|c:\\users\\game on\\source\\repos\\myservicestelegramdatatier\\data\\servicepartdetailsdata\\servicepartdetailsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FF6F84-BB2F-421B-A312-84D4B76C02A6}|..\\MyServicesTelegramDataTier\\MyServicesTelegramBotDataTier.csproj|c:\\users\\game on\\source\\repos\\myservicestelegramdatatier\\data\\servicepartdata\\servicepartdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FF6F84-BB2F-421B-A312-84D4B76C02A6}|..\\MyServicesTelegramDataTier\\MyServicesTelegramBotDataTier.csproj|c:\\users\\game on\\source\\repos\\myservicestelegramdatatier\\data\\servicedata\\servicedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACC6ECF-3246-4FA0-AF5B-BC8F95564568}|..\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\MyServicesTelegramBotDTO.csproj|c:\\users\\game on\\source\\repos\\myservicestelegrambotfull\\myservicestelegrambotdto\\objectsdto\\imagedto\\updateimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACC6ECF-3246-4FA0-AF5B-BC8F95564568}|..\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\MyServicesTelegramBotDTO.csproj|c:\\users\\game on\\source\\repos\\myservicestelegrambotfull\\myservicestelegrambotdto\\objectsdto\\servicepartdetailsdto\\updateservicepartdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACC6ECF-3246-4FA0-AF5B-BC8F95564568}|..\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\MyServicesTelegramBotDTO.csproj|c:\\users\\game on\\source\\repos\\myservicestelegrambotfull\\myservicestelegrambotdto\\objectsdto\\servicesdto\\servicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACC6ECF-3246-4FA0-AF5B-BC8F95564568}|..\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\MyServicesTelegramBotDTO.csproj|c:\\users\\game on\\source\\repos\\myservicestelegrambotfull\\myservicestelegrambotdto\\objectsdto\\servicepartdto\\updateservicepartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5523ED40-C065-4BAF-A13E-532130183809}|..\\MyServicesTelegramBotBussinessTier\\MyServicesTelegramBotBussinessTier.csproj|c:\\users\\game on\\source\\repos\\myservicestelegrambotbussinesstier\\datatypes\\modes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACC6ECF-3246-4FA0-AF5B-BC8F95564568}|..\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\MyServicesTelegramBotDTO.csproj|c:\\users\\game on\\source\\repos\\myservicestelegrambotfull\\myservicestelegrambotdto\\objectsdto\\servicesdto\\insertservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACC6ECF-3246-4FA0-AF5B-BC8F95564568}|..\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\MyServicesTelegramBotDTO.csproj|c:\\users\\game on\\source\\repos\\myservicestelegrambotfull\\myservicestelegrambotdto\\objectsdto\\imagedto\\imagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACC6ECF-3246-4FA0-AF5B-BC8F95564568}|..\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\MyServicesTelegramBotDTO.csproj|c:\\users\\game on\\source\\repos\\myservicestelegrambotfull\\myservicestelegrambotdto\\objectsdto\\servicepartdetailsdto\\servicepartdeatilsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD11E19-2F0D-4779-8F51-28CC4EF33633}|MyServicesBotTelegramAPIInterface.csproj|c:\\users\\game on\\source\\repos\\myservicesbottelegramapiinterface\\controllers\\telegrambot\\telegrambotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD11E19-2F0D-4779-8F51-28CC4EF33633}|MyServicesBotTelegramAPIInterface.csproj|solutionrelative:controllers\\telegrambot\\telegrambotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD11E19-2F0D-4779-8F51-28CC4EF33633}|MyServicesBotTelegramAPIInterface.csproj|c:\\users\\game on\\source\\repos\\myservicesbottelegramapiinterface\\controllers\\user\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD11E19-2F0D-4779-8F51-28CC4EF33633}|MyServicesBotTelegramAPIInterface.csproj|solutionrelative:controllers\\user\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FF6F84-BB2F-421B-A312-84D4B76C02A6}|..\\MyServicesTelegramDataTier\\MyServicesTelegramBotDataTier.csproj|c:\\users\\game on\\source\\repos\\myservicestelegramdatatier\\data\\telegrambotdata\\telegrambotdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FF6F84-BB2F-421B-A312-84D4B76C02A6}|..\\MyServicesTelegramDataTier\\MyServicesTelegramBotDataTier.csproj|c:\\users\\game on\\source\\repos\\myservicestelegramdatatier\\data\\userdata\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACC6ECF-3246-4FA0-AF5B-BC8F95564568}|..\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\MyServicesTelegramBotDTO.csproj|c:\\users\\game on\\source\\repos\\myservicestelegrambotfull\\myservicestelegrambotdto\\objectsdto\\telegrambotdto\\telegrambotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8A81-EB54-466E-BF9D-AD76F0E7362E}|..\\ProjectsServices\\ProjectsServices.csproj|c:\\users\\game on\\source\\repos\\projectsservices\\jwtservices\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3B8A81-EB54-466E-BF9D-AD76F0E7362E}|..\\ProjectsServices\\ProjectsServices.csproj|c:\\users\\game on\\source\\repos\\projectsservices\\jwtservices\\jwttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5523ED40-C065-4BAF-A13E-532130183809}|..\\MyServicesTelegramBotBussinessTier\\MyServicesTelegramBotBussinessTier.csproj|c:\\users\\game on\\source\\repos\\myservicestelegrambotbussinesstier\\services\\signupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5523ED40-C065-4BAF-A13E-532130183809}|..\\MyServicesTelegramBotBussinessTier\\MyServicesTelegramBotBussinessTier.csproj|c:\\users\\game on\\source\\repos\\myservicestelegrambotbussinesstier\\objects\\user\\services\\userloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5523ED40-C065-4BAF-A13E-532130183809}|..\\MyServicesTelegramBotBussinessTier\\MyServicesTelegramBotBussinessTier.csproj|c:\\users\\game on\\source\\repos\\myservicestelegrambotbussinesstier\\services\\saveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicePartDetailsDTO\\ServicePartDetailsTitleDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5523ED40-C065-4BAF-A13E-532130183809}|..\\MyServicesTelegramBotBussinessTier\\MyServicesTelegramBotBussinessTier.csproj|c:\\users\\game on\\source\\repos\\myservicestelegrambotbussinesstier\\services\\getallserviceparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5523ED40-C065-4BAF-A13E-532130183809}|..\\MyServicesTelegramBotBussinessTier\\MyServicesTelegramBotBussinessTier.csproj|c:\\users\\game on\\source\\repos\\myservicestelegrambotbussinesstier\\objects\\servicepartdetails\\services\\getservicepartdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5523ED40-C065-4BAF-A13E-532130183809}|..\\MyServicesTelegramBotBussinessTier\\MyServicesTelegramBotBussinessTier.csproj|c:\\users\\game on\\source\\repos\\myservicestelegrambotbussinesstier\\objects\\servicepartdetails\\services\\getallservicepartdetailstitlesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5523ED40-C065-4BAF-A13E-532130183809}|..\\MyServicesTelegramBotBussinessTier\\MyServicesTelegramBotBussinessTier.csproj|c:\\users\\game on\\source\\repos\\myservicestelegrambotbussinesstier\\objects\\servicepart\\services\\getallservicepartsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5523ED40-C065-4BAF-A13E-532130183809}|..\\MyServicesTelegramBotBussinessTier\\MyServicesTelegramBotBussinessTier.csproj|c:\\users\\game on\\source\\repos\\myservicestelegrambotbussinesstier\\services\\getallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicePartDTO\\ServicePartDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicesDTO\\ServiceDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesBotTelegramAPIInterface\\Controllers\\User\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\User\\UserController.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesBotTelegramAPIInterface\\Controllers\\User\\UserController.cs",
+              "RelativeToolTip": "Controllers\\User\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T20:33:11.971Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectionRoute.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramDataTier\\Settings\\ConnectionRoute.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramDataTier\\Settings\\ConnectionRoute.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramDataTier\\Settings\\ConnectionRoute.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramDataTier\\Settings\\ConnectionRoute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T15:47:38.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesBotTelegramAPIInterface\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesBotTelegramAPIInterface\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-06T14:10:27.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesBotTelegramAPIInterface\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesBotTelegramAPIInterface\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:09:56.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesBotTelegramAPIInterface\\Controllers\\Image\\ImageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Image\\ImageController.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesBotTelegramAPIInterface\\Controllers\\Image\\ImageController.cs",
+              "RelativeToolTip": "Controllers\\Image\\ImageController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T02:32:39.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Objects\\Image\\Image.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramBotBussinessTier\\Objects\\Image\\Image.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Objects\\Image\\Image.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramBotBussinessTier\\Objects\\Image\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T02:26:57.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesBotTelegramAPIInterface\\Controllers\\Service\\ServiceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Service\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesBotTelegramAPIInterface\\Controllers\\Service\\ServiceController.cs",
+              "RelativeToolTip": "Controllers\\Service\\ServiceController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwDcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T02:18:30.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServicePart.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePart\\ServicePart.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePart\\ServicePart.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePart\\ServicePart.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePart\\ServicePart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T02:04:17.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServicePartDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePartDetails\\ServicePartDetail.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePartDetails\\ServicePartDetail.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePartDetails\\ServicePartDetail.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePartDetails\\ServicePartDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T02:05:35.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServicePartController.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesBotTelegramAPIInterface\\Controllers\\ServicePart\\ServicePartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServicePart\\ServicePartController.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesBotTelegramAPIInterface\\Controllers\\ServicePart\\ServicePartController.cs",
+              "RelativeToolTip": "Controllers\\ServicePart\\ServicePartController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA6wFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T14:16:59.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServicePartDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesBotTelegramAPIInterface\\Controllers\\ServicePartDetails\\ServicePartDetailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServicePartDetails\\ServicePartDetailsController.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesBotTelegramAPIInterface\\Controllers\\ServicePartDetails\\ServicePartDetailsController.cs",
+              "RelativeToolTip": "Controllers\\ServicePartDetails\\ServicePartDetailsController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T16:56:47.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SaveServicePartDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePartDetails\\Services\\SaveServicePartDetailService.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePartDetails\\Services\\SaveServicePartDetailService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePartDetails\\Services\\SaveServicePartDetailService.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePartDetails\\Services\\SaveServicePartDetailService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T02:23:14.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SaveServicePartService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePart\\Services\\SaveServicePartService.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePart\\Services\\SaveServicePartService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePart\\Services\\SaveServicePartService.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePart\\Services\\SaveServicePartService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA0wCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T02:22:37.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SaveServiceService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Objects\\Service\\Services\\SaveServiceService.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramBotBussinessTier\\Objects\\Service\\Services\\SaveServiceService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Objects\\Service\\Services\\SaveServiceService.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramBotBussinessTier\\Objects\\Service\\Services\\SaveServiceService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowCIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T02:19:35.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceData.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramDataTier\\Data\\ServiceData\\ServiceData.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramDataTier\\Data\\ServiceData\\ServiceData.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramDataTier\\Data\\ServiceData\\ServiceData.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramDataTier\\Data\\ServiceData\\ServiceData.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAgwJcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:59:37.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServicePartData.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramDataTier\\Data\\ServicePartData\\ServicePartData.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramDataTier\\Data\\ServicePartData\\ServicePartData.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramDataTier\\Data\\ServicePartData\\ServicePartData.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramDataTier\\Data\\ServicePartData\\ServicePartData.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwJcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T13:59:44.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServicePartDetailsData.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramDataTier\\Data\\ServicePartDetailsData\\ServicePartDetailsData.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramDataTier\\Data\\ServicePartDetailsData\\ServicePartDetailsData.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramDataTier\\Data\\ServicePartDetailsData\\ServicePartDetailsData.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramDataTier\\Data\\ServicePartDetailsData\\ServicePartDetailsData.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAALcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:05:13.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateImageDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ImageDTO\\UpdateImageDTO.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ImageDTO\\UpdateImageDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ImageDTO\\UpdateImageDTO.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ImageDTO\\UpdateImageDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T02:09:37.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateServicePartDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicePartDetailsDTO\\UpdateServicePartDetailDTO.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicePartDetailsDTO\\UpdateServicePartDetailDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicePartDetailsDTO\\UpdateServicePartDetailDTO.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicePartDetailsDTO\\UpdateServicePartDetailDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T02:01:54.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServiceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicesDTO\\ServiceDTO.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicesDTO\\ServiceDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicesDTO\\ServiceDTO.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicesDTO\\ServiceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T02:02:48.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateServicePartDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicePartDTO\\UpdateServicePartDTO.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicePartDTO\\UpdateServicePartDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicePartDTO\\UpdateServicePartDTO.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicePartDTO\\UpdateServicePartDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T02:00:42.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Modes.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\DataTypes\\Modes.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramBotBussinessTier\\DataTypes\\Modes.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\DataTypes\\Modes.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramBotBussinessTier\\DataTypes\\Modes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:49:10.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InsertServiceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicesDTO\\InsertServiceDTO.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicesDTO\\InsertServiceDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicesDTO\\InsertServiceDTO.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicesDTO\\InsertServiceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:39:22.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ImageDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ImageDTO\\ImageDTO.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ImageDTO\\ImageDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ImageDTO\\ImageDTO.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ImageDTO\\ImageDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:40:22.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TelegramBotController.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesBotTelegramAPIInterface\\Controllers\\TelegramBot\\TelegramBotController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TelegramBot\\TelegramBotController.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesBotTelegramAPIInterface\\Controllers\\TelegramBot\\TelegramBotController.cs",
+              "RelativeToolTip": "Controllers\\TelegramBot\\TelegramBotController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T21:46:00.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TelegramBotData.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramDataTier\\Data\\TelegramBotData\\TelegramBotData.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramDataTier\\Data\\TelegramBotData\\TelegramBotData.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramDataTier\\Data\\TelegramBotData\\TelegramBotData.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramDataTier\\Data\\TelegramBotData\\TelegramBotData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T21:39:30.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ProjectsServices\\JWTServices\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "..\\ProjectsServices\\JWTServices\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ProjectsServices\\JWTServices\\JwtHelper.cs",
+              "RelativeToolTip": "..\\ProjectsServices\\JWTServices\\JwtHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:56:09.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ServicePartDeatilsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicePartDetailsDTO\\ServicePartDeatilsDTO.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicePartDetailsDTO\\ServicePartDeatilsDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicePartDetailsDTO\\ServicePartDeatilsDTO.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicePartDetailsDTO\\ServicePartDeatilsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T00:45:24.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TelegramBotDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\TelegramBotDTO\\TelegramBotDTO.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\TelegramBotDTO\\TelegramBotDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\TelegramBotDTO\\TelegramBotDTO.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramBotFull\\MyServicesTelegramBotDTO\\ObjectsDTO\\TelegramBotDTO\\TelegramBotDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T21:36:30.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "JWTTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\ProjectsServices\\JWTServices\\JWTTemplate.cs",
+              "RelativeDocumentMoniker": "..\\ProjectsServices\\JWTServices\\JWTTemplate.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\ProjectsServices\\JWTServices\\JWTTemplate.cs",
+              "RelativeToolTip": "..\\ProjectsServices\\JWTServices\\JWTTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:46:10.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramDataTier\\Data\\UserData\\UserData.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramDataTier\\Data\\UserData\\UserData.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramDataTier\\Data\\UserData\\UserData.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramDataTier\\Data\\UserData\\UserData.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwCsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T21:38:35.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserLoginService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Objects\\User\\Services\\UserLoginService.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramBotBussinessTier\\Objects\\User\\Services\\UserLoginService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Objects\\User\\Services\\UserLoginService.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramBotBussinessTier\\Objects\\User\\Services\\UserLoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T01:54:31.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SignUpService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Services\\SignUpService.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramBotBussinessTier\\Services\\SignUpService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Services\\SignUpService.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramBotBussinessTier\\Services\\SignUpService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T01:48:22.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SaveService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Services\\SaveService.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramBotBussinessTier\\Services\\SaveService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Services\\SaveService.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramBotBussinessTier\\Services\\SaveService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T01:46:58.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GetAllServicePartDetailsTitlesService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePartDetails\\Services\\GetAllServicePartDetailsTitlesService.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePartDetails\\Services\\GetAllServicePartDetailsTitlesService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePartDetails\\Services\\GetAllServicePartDetailsTitlesService.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePartDetails\\Services\\GetAllServicePartDetailsTitlesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T16:54:07.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetAllServiceParameter.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Services\\GetAllServiceParameter.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramBotBussinessTier\\Services\\GetAllServiceParameter.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Services\\GetAllServiceParameter.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramBotBussinessTier\\Services\\GetAllServiceParameter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T16:50:21.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GetServicePartDetailsService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePartDetails\\Services\\GetServicePartDetailsService.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePartDetails\\Services\\GetServicePartDetailsService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePartDetails\\Services\\GetServicePartDetailsService.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePartDetails\\Services\\GetServicePartDetailsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T00:52:14.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ServicePartDetailsTitleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicePartDetailsDTO\\ServicePartDetailsTitleDTO.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicePartDetailsDTO\\ServicePartDetailsTitleDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicePartDetailsDTO\\ServicePartDetailsTitleDTO.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicePartDetailsDTO\\ServicePartDetailsTitleDTO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:06:16.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GetAllServicePartsService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePart\\Services\\GetAllServicePartsService.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePart\\Services\\GetAllServicePartsService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePart\\Services\\GetAllServicePartsService.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramBotBussinessTier\\Objects\\ServicePart\\Services\\GetAllServicePartsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T14:07:44.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GetAllService.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Services\\GetAllService.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramBotBussinessTier\\Services\\GetAllService.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotBussinessTier\\Services\\GetAllService.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramBotBussinessTier\\Services\\GetAllService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T16:50:19.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ServicePartDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicePartDTO\\ServicePartDTO.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicePartDTO\\ServicePartDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicePartDTO\\ServicePartDTO.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicePartDTO\\ServicePartDTO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T16:57:36.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ServiceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicesDTO\\ServiceDTO.cs",
+              "RelativeDocumentMoniker": "..\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicesDTO\\ServiceDTO.cs",
+              "ToolTip": "C:\\Users\\Game On\\source\\repos\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicesDTO\\ServiceDTO.cs",
+              "RelativeToolTip": "..\\MyServicesTelegramBotDTO\\ObjectsDTO\\ServicesDTO\\ServiceDTO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T16:56:01.209Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "fKDiFW1YLnEcqja9tihAAYZ76qOP0YOQ9e8ZU/NW3YA=",
+  "Source": "MyServicesBotTelegramAPIInterface",
+  "BasePath": "_content/MyServicesBotTelegramAPIInterface",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

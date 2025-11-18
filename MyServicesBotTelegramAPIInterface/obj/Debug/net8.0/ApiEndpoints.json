@@ -1,0 +1,120 @@
+[
+  {
+    "ContainingType": "MyServicesBotTelegramAPIInterface.Controllers.Service.ServiceController",
+    "Method": "GetAll",
+    "RelativePath": "api/Service/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[MyServicesTelegramBotDTO.ObjectsDTO.ServicesDTO.clsServiceDTO, MyServicesTelegramBotDTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      }
+    ]
+  },
+  {
+    "ContainingType": "MyServicesBotTelegramAPIInterface.Controllers.ServicePart.ServicePartController",
+    "Method": "GetAll",
+    "RelativePath": "api/ServicePart/GetAllServiceParts/{ServiceID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ServiceID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[MyServicesTelegramBotDTO.ObjectsDTO.ServicePartDTO.clsServicePartDTO, MyServicesTelegramBotDTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      }
+    ]
+  },
+  {
+    "ContainingType": "MyServicesBotTelegramAPIInterface.Controllers.ServicePart.ServicePartDetailsController",
+    "Method": "GetServicePartDetails",
+    "RelativePath": "api/ServicePartDetails/GetServicePartDetails/{ServicePartDetailsID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ServicePartDetailsID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MyServicesTelegramBotDTO.ObjectsDTO.ServicePartDetailsDTO.clsServicePartDetailsDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      }
+    ]
+  },
+  {
+    "ContainingType": "MyServicesBotTelegramAPIInterface.Controllers.ServicePart.ServicePartDetailsController",
+    "Method": "GetServicePartDetailsTitles",
+    "RelativePath": "api/ServicePartDetails/GetServicePartDetailsTitles/{ServicePartID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ServicePartID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[MyServicesTelegramBotDTO.ObjectsDTO.ServicePartDTO.clsServicePartDetailsTitleDTO, MyServicesTelegramBotDTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      }
+    ]
+  }
+]
